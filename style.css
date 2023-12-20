@@ -1,0 +1,34 @@
+/*===========
+  
+ICS344 
+Assignment 01
+2023/09/29
+
+Esam Jaafar
+201751810 
+
+===========*/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+#gl-canvas {
+  margin: auto;
+}
